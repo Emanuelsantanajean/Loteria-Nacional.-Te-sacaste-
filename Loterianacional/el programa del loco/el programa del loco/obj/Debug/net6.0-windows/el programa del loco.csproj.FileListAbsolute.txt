@@ -1,0 +1,36 @@
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.exe
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.deps.json
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.runtimeconfig.json
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.dll
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.pdb
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.csproj.AssemblyReference.cache
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el_programa_del_loco.Form1.resources
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el_programa_del_loco.Properties.Resources.resources
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.csproj.GenerateResource.cache
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.AssemblyInfoInputs.cache
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.AssemblyInfo.cs
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.csproj.CoreCompileInputs.cache
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.dll
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\refint\el programa del loco.dll
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.pdb
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.genruntimeconfig.cache
+C:\Users\20211804\source\repos\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\ref\el programa del loco.dll
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.exe
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.deps.json
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.runtimeconfig.json
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.dll
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\bin\Debug\net6.0-windows\el programa del loco.pdb
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el_programa_del_loco.Form1.resources
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el_programa_del_loco.Properties.Resources.resources
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.csproj.GenerateResource.cache
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.AssemblyInfo.cs
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.dll
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\refint\el programa del loco.dll
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.pdb
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\el programa del loco.genruntimeconfig.cache
+C:\Users\Emanuel\Source\Repos\Loterianacional\el programa del loco\el programa del loco\obj\Debug\net6.0-windows\ref\el programa del loco.dll
